@@ -136,5 +136,11 @@
 - Configurar alertas variables según usuario.
 - Enviar resúmenes diarios/semanales además de alertas.
 
-# En la ventana ... dejo capturas que pueden servir de ayuda.    
-    
+# Dejo capturas del flujo en:
+- 1er_paso.png --> módulo CoinMarketCap
+- 2do_paso.png --> módulo variables base
+- 3er_paso.png --> módulo variable percentage_change
+- 4to_paso.png --> módulo Telegram Bot
+- 5to_paso.png --> filtro del envío de la alerta
+- scenario_btc_alerta_mama.png --> muestra el flujo completo
+- mensaje_alerta_btc.png --> mensaje de alerta enviado
